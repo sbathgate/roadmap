@@ -14,6 +14,10 @@
 
  - Bump recaptcha from 5.16.0 to 5.18.0 [#964](https://github.com/portagenetwork/roadmap/pull/964)
 
+### Fixed
+
+ - Clean Up `/contact-us` Page, Fix "Contact us" Footer Link, and Update `terms_of_use_path` [#978](https://github.com/portagenetwork/roadmap/pull/978)
+
 ## [4.1.1+portage-4.2.3] - 2024-11-20
 
 ### Added
