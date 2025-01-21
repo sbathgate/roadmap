@@ -4,6 +4,8 @@
 
 ### Changed
 
+ - Update Handling For When Linking New External Credentials Without IdP email and Refactor `def openid_connect` [#1003](https://github.com/portagenetwork/roadmap/pull/1003)
+
  - Bump jwt from 2.8.2 to 2.10.1 [#984](https://github.com/portagenetwork/roadmap/pull/984)
 
  - Bump dragonfly from 1.4.0 to 1.4.1 [#988](https://github.com/portagenetwork/roadmap/pull/988)
