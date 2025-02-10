@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+ - Add Functionality Allowing Super Admins to Confirm/Unconfirm User Emails [#1009](https://github.com/portagenetwork/roadmap/pull/1009)
+
 ### Changed
 
  - Bump jwt from 2.8.2 to 2.10.1 [#984](https://github.com/portagenetwork/roadmap/pull/984)
